@@ -10,7 +10,7 @@ This is a copy of an academic *Team* Project Created By:
 - Nikkia Theodule - njt7621@g.rit.edu
 - Jonah Micek - jonahamicek@gmail.com
 
-During our tenure at RIT, specifically in the class User Experience/User Interface Design Class, or SWEN-444. I (Jonah Micek) have copied this project to ensure that the Proto.io demo of this UX/UI project survives, in the case of potential employers' interest in seeing this particular project in-action. Aside from this README document, made no changes to any of the code. I in no way take any full claim to the work completed on this project.
+During our tenure at RIT, specifically in the class User Experience/User Interface Design Class, or SWEN-444. I (Jonah Micek) have copied this project to ensure that the Proto.io demo of this UX/UI project survives, in the case of potential employers' interest in seeing this particular project in-action. Aside from this README document, I have made no changes to any part of the project, including the code. I in no way take any full claim to the work completed on this project.
 
 ### Running the Project Demo
 
