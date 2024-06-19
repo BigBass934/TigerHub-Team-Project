@@ -43,6 +43,6 @@ More specific design requirements in our TigerHub prototype included:
 
 ### Initial Wireframes
 
-![TigerHub Wireframe 1](\readme_images\tigerhub_wireframe-1.png)
+![TigerHub Wireframe 1](.\readme_images\tigerhub_wireframe-1.png)
 
-![TigerHub Wireframe 1](\readme_images\tigerhub_wireframe-2.png)
+![TigerHub Wireframe 1](.\readme_images\tigerhub_wireframe-2.png)
